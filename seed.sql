@@ -20,3 +20,5 @@ insert into users(name) values('rich');
 insert into users(name) values('jeremy');
 
 insert into things(name, "UserID", description) values ('foo', 1, 'foo description')
+-- insert into things(name, "UserID", description) values ('baz', 1, 'baz description')
+-- insert into things(name, "UserID", description) values ('bar', 2, 'bar description')
