@@ -1,0 +1,22 @@
+{
+  "name": "testgitrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:dev": "nodemon server.js -e js, sql"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahlien/TestGitRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahlien/TestGitRepo/issues"
+  },
+  "homepage": "https://github.com/Rahlien/TestGitRepo#readme"
+}
